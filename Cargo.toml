@@ -1,0 +1,18 @@
+[package]
+name = "learning-vulkan"
+version = "0.1.0"
+authors = ["BenSandeen <12025856+BenSandeen@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#luminance = "0.38"
+#luminance-derive = "0.5"
+#luminance-glfw = "0.12"
+#luminance-windowing = "0.8"
+vulkano = "0.13"
+vulkano-shaders = "0.13"
+image = "0.21"
+vulkano-win = "0.13"
+winit = "0.19"
